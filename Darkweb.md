@@ -98,22 +98,22 @@ Nos devuelve esta web:
 
 Le damos a *Access the Darkest Web* y nos muestra esto:
 
-![[Captura de pantalla 2025-07-04 002133.png]]
+![](./images/3.png)
 
 Seleccionamos *Red Room 27* y nos manda a esta página, donde le preguntamos por user, éste nos devuelve un nombre de usuario.
 
-![](./images/3.png)
+![](./images/5.png)
 
 A continuación debemos buscar un diccionario para intentar hacer fuerza bruta con ese usuario 
 
 En el apartado *Hidden Marketplace* vemos cosas sospechosas, por tanto leemos el código fuente y vemos un nombre de un posible diccionario
 
-![](./images/4.png)
+![](./images/7.png)
 
 Vemos que nos tiene que redirigir a un archivo de texto, pero no sabemos como, probamos poniéndolo en la url y tenemos premio
 
 
-![](./images/5.png)
+![](./images/6.png)
 
 Todas estas posibles contraseñas nos las metemos en un archivo y a continuación, con el usuario que tenemos (dark) hacemos fuerza bruta para entrar por ssh:
 
