@@ -93,7 +93,8 @@ No le compartas esta pagina a nadie, solo quiero que lo veas tu, ya que esto me 
 Se trata de una página de tor al ser .onion 
 Nos devuelve esta web:
 
-![[Captura de pantalla 2025-07-04 001948.png]]
+![](./images/1.png)
+
 
 Le damos a *Access the Darkest Web* y nos muestra esto:
 
