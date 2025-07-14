@@ -1,4 +1,4 @@
-===ENUMERACIÓN===
+ENUMERACIÓN
 
 Empezaremos lanzando un nmap a la ip de la máquina objetivo 
 
@@ -23,7 +23,7 @@ PORT   STATE SERVICE REASON         VERSION
 |_http-server-header: Apache/2.4.59 (Debian)
 ```
 
-===EXPLOTACIÓN===
+EXPLOTACIÓN
 
 Iremos al puerto 80, la página web, donde vemos una web para buscar usuarios.
 
@@ -90,7 +90,7 @@ Ahora al tener credenciales, probaremos entrar por ssh, he intentado acceder emp
 ssh kvzlx@172.18.0.2
 ```
 
-===ESCALADA DE PRIVILEGIOS===
+ESCALADA DE PRIVILEGIOS
 
 Para la escalada de privilegios siempre opto por hacer primero *sudo -l* y esta vez tuvimos suerte:
 
