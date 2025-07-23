@@ -114,7 +114,10 @@ Vaya, capturaremos la petición con burpsuite y la petición se la mandamos al i
 ![](./images/4.png)
 
 
+
 En el ataque vemos que el número 16 su "length" es muy superior al resto, por tanto cogeremos su petición y la envíamos:
+
+
 
 ![](./images/5.png)
 ![](./images/6.png)
