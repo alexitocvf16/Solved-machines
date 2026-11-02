@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Máquina orientada a **Blue Team**, centrada en **análisis forense de tráfico de red con Wireshark**. No se trata de una máquina de explotación: no hay acceso en vivo al servidor comprometido, toda la investigación se realiza sobre una captura de red (`.pcap`) entregada como evidencia, tal y como ocurriría en un caso real de respuesta a incidentes.
+Máquina de **DockerLabs** orientada a **Blue Team**, centrada en **análisis forense de tráfico de red con Wireshark**. No se trata de una máquina de explotación: no hay acceso en vivo al servidor comprometido, toda la investigación se realiza sobre una captura de red (`.pcap`) entregada como evidencia, tal y como ocurriría en un caso real de respuesta a incidentes.
 
 El escenario sitúa al analista como parte de un equipo de respuesta a incidentes, investigando el hackeo sufrido por la intranet corporativa de una tienda online ficticia ("Reviews & Co."). El equipo de desarrollo del cliente detectó un archivo sospechoso en el directorio de subida de imágenes de la sección de reseñas de producto, y poco después un administrador reportó que ya no podía autenticarse con la cuenta de servicio `pinguinito`.
 
